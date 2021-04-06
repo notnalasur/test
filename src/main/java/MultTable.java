@@ -14,6 +14,7 @@ public class MultTable {
       ICS2605 1CSA
       Lab Exercise 01
       Multiplication Table
+    comment
     */
     public static void main (String args []){
         Scanner input = new Scanner (System.in);
